@@ -21,7 +21,7 @@ bot(
 
 bot(
   {
-    pattern: 'getgreet ?(.*)',
+    pattern: 'getgree ?(.*)',
     desc: 'Get personal message var',
     type: 'personal',
   },
